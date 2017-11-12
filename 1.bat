@@ -1,0 +1,2 @@
+python vodkabot.py
+pause
